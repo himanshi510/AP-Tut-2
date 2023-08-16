@@ -1,4 +1,4 @@
-AP Tutorial 2: Class, object, constructor, access modifiers, encapsulation
+Advanced Programming [AP] Tutorial 2: Class, object, constructor, access modifiers, encapsulation
 
 Object: instance of class that may contain attributes and methods
 
