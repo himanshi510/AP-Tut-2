@@ -24,3 +24,4 @@ Accessible from anywhere in the code, regardless of package.
 Visible to all classes, including classes in different packages.
 
 Encapsulation: Attributes of a class are private and we use getters and setters to access them.
+Added a line to demonstrate pull request.
